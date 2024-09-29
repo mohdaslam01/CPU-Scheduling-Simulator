@@ -1,6 +1,9 @@
 # CPU-Scheduling-Simulator
+
 mohdaslam01/CPU-Scheduling-Simulator
+
 MEETINGS EVERY WEDNESDAYS 2.30
+
 Important three phases:
 
 1. Research 
